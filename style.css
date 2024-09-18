@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family="Montserrat":ital,wght@0,100..900;1,100..900&display=swap');
+.body{
+    background-color: rgb(217, 223, 233);
+    text-indent: 1.5rem;
+}
+
+.div2{
+    text-indent: 1.5rem;
+    background-color: white;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.h1{
+    font-size: 40px;
+    text-align: center;
+    padding: 30px;
+    font-family: Montserrat;
+}
+
+.p{ 
+    font-size: 25px;
+    text-indent: 1.5rem;
+    font-weight: bolder;
+    margin-left: 2%;
+    font-family: Montserrat;
+}
+
+.p2{
+    font-size: 15px;
+    text-indent: 1.5rem;
+    font-family: Montserrat;
+    margin-left: 2%;
+
+}
+.a{
+    font-size: 25px;
+    text-indent: 1.5rem;
+    font-weight: bolder;
+    margin-left: 2%;
+    font-family: Montserrat;
+}
+
+.p1{
+    text-align: center;
+    font-family: Montserrat;
+    text-decoration: underline;
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+.hr{
+    margin-right: 33.5%;
+    margin-left: 35.5%;
+    border: 3px black solid;
+}
+
+.hr1{
+    margin-right: 36%;
+    margin-left: 38%;
+    border: 3px black solid;
+}
+
+.h23{
+    margin-left: 5%;
+    font-size: 40px;
+    font-family: Montserrat;
+    font-weight: 500;
+}
+
+.h12{
+    font-size: 40px;
+    font-family: Montserrat;
+    margin-left: 3%;
+}
+
+.hr3{
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.h123{
+    font-size: 40px;
+    font-family: Montserrat;
+    margin-left: 5%;   
+}
+
+.h24{
+    margin-left: 2%;
+    font-size: 40px;
+    font-family: Montserrat;
+    font-weight: 500;
+}
+
+.div{
+    border-right: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+    margin-right: 78%;
+    margin-left: 2%;
+}
+
+.h21{
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    font-size: 40px;
+    background-color: rgb(0, 142, 255);
+    font-family: Montserrat;
+}
+
+.li{
+    text-decoration: underline;
+    font-size: 23px;   
+    font-family: Montserrat;
+}
